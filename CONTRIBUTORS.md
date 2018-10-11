@@ -269,6 +269,11 @@ About: I am 4th year comptuer science student from Zagreb, Croatia. I am a compe
 Programming Languages: C++, C, Java, Haskell, Bash, HTML, Javascript<br/>
 Email: dario.sindicic@gmail.com
 
+Name: [TK Vishal](https://github.com/sanvishal)<br/>
+About: I am currently studying Electronics 2nd year. I have some experience in front as well as back end with python and nodejs<br/>
+Programming Languages: C++, C, Java, Python, Javascript. <br/>
+Email: vishalsanthosh1999@gmail.com
+
 Name: [Mohit Uniyal](https://github.com/mohit2016)<br/>
 About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.<br/>
 Programming Language: C++, JavaScript, Java, Python<br/>
